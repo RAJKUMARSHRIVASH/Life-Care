@@ -34,13 +34,13 @@ Life Care Hospital is one of the renowned and leading multispecialty hospitals c
 Clone the project
 
 ```bash
-  git clone https://github.com/mujaheed13/nimble-sand-8219
+  git clone https://github.com/RAJKUMARSHRIVASH/Life-Care
 ```
 
 Go to the project directory
 
 ```bash
-  cd nimble-sand-8219
+  cd Life-Care
 ```
 
 Install dependencies
